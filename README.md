@@ -183,7 +183,7 @@ ln(N) = ln(N_0) + rt \cancel{ln(e)}
 
 The linear approximation when $` K \gg N_0 `$ and $`t`$ is small would be:
 
-**Regression equation 1**
+**Regression equation 1:**
 
 ```math
 \begin{equation}
@@ -193,7 +193,7 @@ ln(N) = ln(N_0) + rt
 
 On the other hand, when $`t`$ is large and the population size remains constant we can use the following approximation (final equation from Observation #1):
 
-**Regression equation 2**
+**Regression equation 2:**
 
 ```math
 \begin{equation}
@@ -229,7 +229,7 @@ There are a few additional free platforms that you can check out for your own wo
 
 First, we will need to find the repository with the code for our analysis.
 
-- Type **josegabrielnb/logistic_growth** in the search bar at the top.
+- Type **repo:josegabrielnb/logistic_growth** in the search bar at the top.
 
 - Click on the link to see the repository, it should contain three R scripts for the data analysis.
 
@@ -354,7 +354,7 @@ We will be using **Posit cloud** (https://posit.cloud), which is a cloud-based p
 
 - Include annotations in the code to signpost each step.
 
-Start by plotting the data (`plot_data.R`), then fit the linear models (`fit_linear_model.R`) and finally assess the fit of the model to your data graphically (`plot_data_and_model.R`).
+Start by plotting the data (`01_plot_data.R`), then fit the linear models (`02_fit_linear_model.R`) and finally assess the fit of the model to your data graphically (`03_plot_data_and_model.R`).
 
 ### 8. Commit and push the changes to your GitHub repo
 
@@ -506,4 +506,4 @@ Sandve GK, et al. (2013). [Ten simple rules for reproducible computational resea
 
 ## Acknowledgements
 
-I would like to thank Alex Zarebski, Sumali Bajaj, Joseph (Lok) Tsui, Roberto Salguero-Gomez, Lydia France, Juan Antonio Balbuena and Juan Ignacio Lucas for their guidance and feedback while preparing this lesson.
+I would like to thank Alex Zarebski, Sumali Bajaj, Joseph Tsui, Roberto Salguero-Gomez, Lydia France, Juan Antonio Balbuena and Juan Ignacio Lucas for their guidance and feedback while preparing this lesson.
