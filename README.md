@@ -121,7 +121,7 @@ N(t) = N_0 e^{rt}
 
 #### Observation #2. In the limit $`t \to \infty`$, $`N(t) \to K`$
 
-When t tends to infinity, the size of the population is equal to a constant number, the carrying capacity.
+When $t$ tends to infinity, the size of the population is equal to a constant number, the carrying capacity.
 
 To show this, we take the limit of $N(t)$ as $`t \to \infty`$,
 
@@ -205,7 +205,7 @@ N(t) = K + 0 \cdot t
 
 ### 1. Download the data from OSF
 
-The results from 3 simulated experiments have been uploaded to the Open Science Framework's website (https://osf.io).
+The results a simulated experiment (experiment.csv) has been uploaded to the Open Science Framework's website (https://osf.io).
 
 OSF is a free online platform that allows researchers to collaborate on projects, deposit their data and make it widely accessible.
 
