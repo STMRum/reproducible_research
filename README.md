@@ -205,7 +205,7 @@ N(t) = K + 0 \cdot t
 
 ### 1. Download the data from OSF
 
-The results a simulated experiment (experiment.csv) has been uploaded to the Open Science Framework's website (https://osf.io).
+The results of a simulated experiment (experiment.csv) has been uploaded to the Open Science Framework's website (https://osf.io).
 
 OSF is a free online platform that allows researchers to collaborate on projects, deposit their data and make it widely accessible.
 
